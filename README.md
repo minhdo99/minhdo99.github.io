@@ -4,7 +4,7 @@ I'm Felix, formerly a PL/SQL developer at FPT-IS. My goal is to become a UX/UI D
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-minhdo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/do-minh-2109/) [![Mail Badge](https://img.shields.io/badge/-minhvan210999-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:minhvan210999@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-minhdo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhfelixdo/) [![Mail Badge](https://img.shields.io/badge/-minhvan210999-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:minhvan210999@hotmail.com)
 
 <!-- TODO: Add last video link -->
 
