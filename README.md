@@ -1,8 +1,11 @@
 ## Hi I'm Minh (Felix) Do <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Felix, formerly a PL/SQL developer at FPT-IS. My goal is to become a UX/UI Designer. 
+As a Junior PL/SQL Developer with 2 years of experience, I'm passionate about Logic things and also try to balance Creativity and make those two merged. I thrive in collaborative environments, working closely with cross-functional teams to bring innovative products to life. My current goal is to become an UI/UX Designer.
 
-:mailbox: Reach me out!
+My motto is "You Didn't Go Through All That For Nothing", as every misadventure and hiccup along the way has given me amusing stories and the tenacity to keep pushing forward. This quote helps me laugh at my past mistakes and pursue my goals with a positive attitude, knowing that each challenge has made me tougher and more resolved.
+Me in 3 Words:  A Vegetarian 🌿 | A Runner 🏃‍♂️ | A Dhamma Learner 📝
+
+:mailbox: Reach me out! 📩📭
 
 [![Linkedin Badge](https://img.shields.io/badge/-minhdo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhfelixdo/) [![Mail Badge](https://img.shields.io/badge/-minhvan210999-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:minhvan210999@hotmail.com)
 
